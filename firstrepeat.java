@@ -22,7 +22,7 @@ class firstrepeat
 				out=a[i];
 			}
 			q=i;
-			w=z; 
+			w=z;
 		}
 		System.out.println(out);
 	}
